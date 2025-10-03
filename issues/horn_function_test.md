@@ -11,8 +11,7 @@ Process:
 - Fiamm
 
 **Date:**
-
-**Due/Expiry:** 2025-10-03
+Due/Expiry: 2025-10-03
 
 **Priority:**
 Low
